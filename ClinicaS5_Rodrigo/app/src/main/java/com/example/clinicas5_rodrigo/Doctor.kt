@@ -1,4 +1,8 @@
 package com.example.clinicas5_rodrigo
 
-class Doctor {
-}
+data class Doctor(
+    val especialidad: String,
+    val nombre: String,
+    val celular: String = "",
+    val horario: String = ""
+)
