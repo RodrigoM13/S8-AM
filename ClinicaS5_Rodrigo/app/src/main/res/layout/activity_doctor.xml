@@ -52,7 +52,6 @@
                 android:textSize="18sp"
                 android:layout_marginBottom="4dp" />
 
-            <!-- Aquí agrego el celular -->
             <TextView
                 android:id="@+id/txtDoctorCelular"
                 android:layout_width="wrap_content"
@@ -62,7 +61,6 @@
                 android:textSize="16sp"
                 android:layout_marginBottom="4dp" />
 
-            <!-- Aquí agrego el horario -->
             <TextView
                 android:id="@+id/txtDoctorHorario"
                 android:layout_width="wrap_content"

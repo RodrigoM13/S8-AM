@@ -13,7 +13,6 @@
         android:layout_height="wrap_content"
         android:padding="16dp">
 
-        <!-- Top curved background -->
         <View
             android:id="@+id/topCircle"
             android:layout_width="0dp"
@@ -23,7 +22,6 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent" />
 
-        <!-- Title text over top curve -->
         <TextView
             android:id="@+id/titleTop"
             android:layout_width="wrap_content"
@@ -38,7 +36,6 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent" />
 
-        <!-- Main image -->
         <ImageView
             android:id="@+id/imagePortada"
             android:layout_width="0dp"
@@ -50,7 +47,6 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent" />
 
-        <!-- Card container -->
         <androidx.cardview.widget.CardView
             android:id="@+id/cardContainer"
             android:layout_width="0dp"
@@ -64,11 +60,9 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent" >
 
-            <!-- Aquí puedes agregar contenido dentro del CardView -->
 
         </androidx.cardview.widget.CardView>
 
-        <!-- Bottom half circle -->
         <View
             android:id="@+id/bottomCircle"
             android:layout_width="0dp"
@@ -79,7 +73,6 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent" />
 
-        <!-- Botones sobre el bottomCircle (superpuestos) -->
         <LinearLayout
             android:id="@+id/buttonsContainer"
             android:layout_width="0dp"
