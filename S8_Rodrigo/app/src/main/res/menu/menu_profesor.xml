@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_asistencia" android:title="Asistencia" android:icon="@drawable/ic_check" />
+    <item android:id="@+id/nav_web" android:title="Web" android:icon="@drawable/ic_web" />
+    <item android:id="@+id/nav_registros" android:title="Registros" android:icon="@drawable/ic_list" />
+    <item android:id="@+id/nav_logout" android:title="Cerrar sesión" android:icon="@android:drawable/ic_lock_power_off" />
+
+</menu>
