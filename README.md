@@ -49,3 +49,6 @@ Dependiendo del rol, se muestran distintos menús:
 ### Alumnos:
 - Usuario: `202114043`, Contraseña: `12345678`
 - Usuario: `202114032`, Contraseña: `87654321`
+
+A continuación, se adjuntarán imagenes del funcionamiento del aplicativo
+
