@@ -52,3 +52,5 @@ Dependiendo del rol, se muestran distintos menús:
 
 A continuación, se adjuntarán imagenes del funcionamiento del aplicativo
 
+🔐 Login Alumno
+<img src="screenshots/Login Alumno.png" alt="Login"/>
