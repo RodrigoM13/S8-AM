@@ -52,5 +52,32 @@ Dependiendo del rol, se muestran distintos menús:
 
 A continuación, se adjuntarán imagenes del funcionamiento del aplicativo
 
-### 🔐 Login  
+### 🔐 Login Alumno
 ![Login](screenshots/Login_Alumno.png)
+
+### 🔐 Login Profesor
+![Login](screenshots/Login_Profesor.png)
+
+### 🔐 Main
+![Login](screenshots/Main.png)
+
+### 🔐 Menu Alumno
+![Login](screenshots/Menu_Alumno.png)
+
+### 🔐 Menu Profesor
+![Login](screenshots/Menu_Profesor.png)
+
+### 🔐 Sitio Web
+![Login](screenshots/Sitio_Web.png)
+
+### 🔐 Asistencia Alumno
+![Login](screenshots/Asistencia_Alumno.png)
+
+### 🔐 Asistencia Profesor
+![Login](screenshots/Asistencia_Profesor.png)
+
+### 🔐 Lista de Registro (Alumno)
+![Login](screenshots/Lista_Registro_Solo_Alumno.png)
+
+### 🔐 Lista de Registro Completo
+![Login](screenshots/Lista_Registro_Completo.png)
